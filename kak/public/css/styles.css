@@ -1,0 +1,25 @@
+/* public/css/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  canvas {
+    border: 1px solid #000;
+  }
+  
+  #registrationForm {
+    display: none;
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  
+  #registrationForm input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  #toggleModeBtn {
+    margin-bottom: 10px;
+  }
+  
